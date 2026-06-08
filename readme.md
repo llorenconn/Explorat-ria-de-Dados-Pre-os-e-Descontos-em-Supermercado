@@ -22,7 +22,3 @@ Explorar um dataset de produtos de supermercado para entender:
 - Matplotlib
 
 ---
-
-## 📂 Estrutura do projeto
-
-    
